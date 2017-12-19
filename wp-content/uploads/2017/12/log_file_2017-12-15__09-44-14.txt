@@ -1,0 +1,146 @@
+
+---Downloaded files---
+The import files for: Eggnews were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projects/webapp-vtj
+Data file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-content-import-file_2017-12-15__09-44-14.xml
+Widget file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-widgets-import-file_2017-12-15__09-44-14.json
+Customizer file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-customizer-import-file_2017-12-15__09-44-14.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+
+
+------
+Completed AJAX call number: 12
+
+
+------
+Completed AJAX call number: 13
+
+
+------
+Completed AJAX call number: 14
+
+
+------
+Completed AJAX call number: 15
+
+
+------
+Completed AJAX call number: 16
+
+
+------
+Completed AJAX call number: 17
+
+
+------
+Completed AJAX call number: 18
+
+
+------
+Completed AJAX call number: 19
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Block Posts List - No Title - Imported
+
+Left Sidebar : 
+
+Block Layout - No Title - Imported
+
+Header Ads : 
+
+Custom HTML - No Title - Imported
+
+Home Page Slider Area : 
+
+Featured Slider - No Title - Imported
+
+HomePage Content Area : 
+
+Carousel Posts - No Title - Imported
+Block Layout - No Title - Imported
+Grid Block Posts - No Title - Imported
+Column Block Posts - No Title - Imported
+Column Block Posts - No Title - Imported
+
+HomePage Sidebar : 
+
+Posts Lists - No Title - Imported
+Column Block Posts - No Title - Imported
+Column Block Posts - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer 1st Column : 
+
+Text - ABOUT - Imported
+
+Footer 2nd Column : 
+
+Tag Cloud - Categories - Imported
+
+Footer 3rd Column : 
+
+Posts Lists - No Title - Imported
+
+Footer 4th Column : 
+
+Meta - Meta - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tetk-after-demo-content-import---
+

@@ -1,0 +1,70 @@
+
+---Downloaded files---
+The import files for: Eggnews were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projects/webapp-vtj
+Data file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-content-import-file_2017-12-13__05-40-53.xml
+Widget file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-widgets-import-file_2017-12-13__05-40-53.json
+Customizer file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-customizer-import-file_2017-12-13__05-40-53.dat
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Block Posts List - No Title - Widget already exists
+
+Left Sidebar : 
+
+Block Layout - No Title - Widget already exists
+
+Header Ads : 
+
+Custom HTML - No Title - Widget already exists
+
+Home Page Slider Area : 
+
+Featured Slider - No Title - Imported
+
+HomePage Content Area : 
+
+Carousel Posts - No Title - Widget already exists
+Block Layout - No Title - Widget already exists
+Grid Block Posts - No Title - Widget already exists
+Column Block Posts - No Title - Widget already exists
+Column Block Posts - No Title - Widget already exists
+
+HomePage Sidebar : 
+
+Posts Lists - No Title - Widget already exists
+Column Block Posts - No Title - Widget already exists
+Column Block Posts - No Title - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+Footer 1st Column : 
+
+Text - ABOUT - Widget already exists
+
+Footer 2nd Column : 
+
+Tag Cloud - Categories - Widget already exists
+
+Footer 3rd Column : 
+
+Posts Lists - No Title - Widget already exists
+
+Footer 4th Column : 
+
+Meta - Meta - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tetk-after-demo-content-import---
+

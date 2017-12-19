@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/projects/webapp-vtj
+Data file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-content-import-file_2017-12-13__05-59-00.xml
+Widget file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-widgets-import-file_2017-12-13__05-59-00.json
+Customizer file = D:\xampp\htdocs\projects\webapp-vtj/wp-content/uploads/2017/12/demo-customizer-import-file_2017-12-13__05-59-00.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Search - Search - Imported
+Archives - Archives - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Recent Posts - Recent Posts - Imported
+
+Footer widget area : 
+
+Text - About - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Navigation Menu - Custom Menu - Imported
+
+Left widget area below slider : 
+
+WBR : Info Widget - Have a question? Call us now - Imported
+
+Right widget area below slider : 
+
+WBR : Info Widget - We are open Mon-Fri - Imported
+
+Center widget area below slider : 
+
+WBR : Info Widget - Drop us an mail - Imported
+
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Search - Search - Widget already exists
+Archives - Archives - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Recent Posts - Recent Posts - Widget already exists
+
+Footer widget area : 
+
+Text - About - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Navigation Menu - Custom Menu - Widget already exists
+
+Left widget area below slider : 
+
+WBR : Info Widget - Have a question? Call us now - Widget already exists
+
+Right widget area below slider : 
+
+WBR : Info Widget - We are open Mon-Fri - Widget already exists
+
+Center widget area below slider : 
+
+WBR : Info Widget - Drop us an mail - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
+
+---pt-ocdi/after_import---
+
